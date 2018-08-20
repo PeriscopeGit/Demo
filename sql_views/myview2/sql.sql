@@ -1,1 +1,1 @@
-se
+select 1
